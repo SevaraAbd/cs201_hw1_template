@@ -25,7 +25,7 @@ int main(int argc, const char * argv[]) {
     cout<<"----------------------"<<endl;
     cout<<"*------------------------------------------*"<<endl;
     
-    //----------PART TWO: WRITE BY YOURSELF!----------
+    //----------PART TWO: DO IT YOURSELF!----------
     //Write Your Code Here
     
     
