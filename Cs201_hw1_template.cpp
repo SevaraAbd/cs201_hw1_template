@@ -26,7 +26,7 @@ int main(int argc, const char * argv[]) {
     cout<<"*------------------------------------------*"<<endl;
     
     //PART TWO: WRITE BY YOURSELF!!!!
-    //write your code below:
+    //Write Your Code Here
     
     
     return 0;
