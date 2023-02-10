@@ -5,7 +5,7 @@ using namespace std;
 
 int main(int argc, const char * argv[]) {
     
-    //----------PART ONE: DO NOT CHANGE CODE!!!----------
+    //----------PART ONE: DO NOT CHANGE CODE!----------
     
     Dog d("Beethoven","Saint Bernard",100,1,19.5,"Brown");
     d.printDetails();
@@ -25,7 +25,7 @@ int main(int argc, const char * argv[]) {
     cout<<"----------------------"<<endl;
     cout<<"*------------------------------------------*"<<endl;
     
-    //----------PART TWO: WRITE BY YOURSELF----------
+    //----------PART TWO: WRITE BY YOURSELF!----------
     //Write Your Code Here
     
     
